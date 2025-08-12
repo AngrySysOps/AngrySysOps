@@ -2,6 +2,8 @@
 - 👀 I’m interested in virtualization
 - 🌱 I’m currently learning everything :) 
 - 📫 @AngrySysOps on Twitter, on Facebook
+- 🚨 Subscribe to my YT chanel :  https://www.youtube.com/@angryadmin
+
 - 🚨  Buy my book: https://a.co/d/40dDqVh
 
 <!---
